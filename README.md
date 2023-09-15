@@ -46,9 +46,9 @@ Install dependencies client
 Start the Client
 
 ```bash
-  //open now terminal
-  cd frontend
-  npm start
+ 
+  cd ChatApp-frontend
+  npm run dev
 ```
 
 
