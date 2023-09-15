@@ -76,10 +76,10 @@ Start the server
 # Features
 
 ### Authenticaton
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
+![](https://github.com/Arpa646/chatApp-frontend/blob/main/screenshort/login2.png)
+![](https://github.com/Arpa646/chatApp-frontend/blob/main/screenshort/signup.png)
 ### Real Time Chatting with Typing indicators
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
+![](https://github.com/Arpa646/chatApp-frontend/blob/main/screenshort/realtimeChat.png)
 ### One to One chat
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
 ### Search Users
