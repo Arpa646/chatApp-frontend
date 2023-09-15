@@ -29,7 +29,7 @@ Frontend clone in  Chat-App
 ```
 ```bash
 Backend  clone in Chat-App
-  git clone https://github.com/Arpa646/chatApp-frontend.git  
+  git clone https://github.com/Arpa646/TalkWave.git  
 ```
 
 Go to the project in front end
@@ -84,8 +84,8 @@ Start the server
 ![](https://github.com/Arpa646/chatApp-frontend/blob/main/screenshort/onotoone.png)
 ### Search Users
 ![](https://github.com/Arpa646/chatApp-frontend/blob/main/screenshort/search.png)
-### Create Group Chats
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
+<!-- ### Create Group Chats
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG) -->
 
 ### Add or Remove users from group
 ![](https://github.com/Arpa646/chatApp-frontend/blob/main/screenshort/group.png)
