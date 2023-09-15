@@ -81,19 +81,18 @@ Start the server
 ### Real Time Chatting with Typing indicators
 ![](https://github.com/Arpa646/chatApp-frontend/blob/main/screenshort/realtimeChat.png)
 ### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+![](https://github.com/Arpa646/chatApp-frontend/blob/main/screenshort/onotoone.png)
 ### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+![](https://github.com/Arpa646/chatApp-frontend/blob/main/screenshort/search.png)
 ### Create Group Chats
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
-### Notifications 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
-### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
-### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
-## Made By
 
+### Add or Remove users from group
+![](https://github.com/Arpa646/chatApp-frontend/blob/main/screenshort/group.png)
+### View Other user Profile
+![](https://github.com/Arpa646/chatApp-frontend/blob/main/screenshort/guestprofile.png)
+## Made By
+@Arpa
 
 
   
