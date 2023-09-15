@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+.App{
+  min-height: 100vh;
+  display: flex;
+  background-color: aquamarine;
+}
+.display{
+  display: flex;
+}
+.chat-box {
+  display: flex;
+  align-items: center;
+
+  padding: 3px;
+  background-color: white;
+  width: 100%;
+  max-width: 68%;
+  border-radius: 8px;
+  border: 1px solid #000; /* You can adjust the border color */
+}
+
+/* Responsive styles for screens wider than 768px */
+@media screen and (min-width: 768px) {
+  .chat-box {
+    max-width: 100%; /* Adjust the width as needed for larger screens */
+  }
+}
+
+/* Responsive styles for screens wider than 992px */
+@media screen and (min-width: 992px) {
+  .chat-box {
+    max-width: 80%; /* Adjust the width as needed for even larger screens */
+  }
+}
+
+
+
+
