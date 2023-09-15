@@ -1,7 +1,7 @@
 
-# Talk-A-Tive
+# ChatApp
 
-Talk-a-tive is a Full Stack Chatting App.
+ChatApp is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
@@ -13,7 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-https://talk-a-tive.herokuapp.com/
+<!-- https://talk-a-tive.herokuapp.com/ -->
 
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
@@ -21,30 +21,27 @@ https://talk-a-tive.herokuapp.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  create folder  Chat-App
+```
+```bash
+Frontend clone in  Chat-App
+  git clone https://github.com/Arpa646/chatApp-frontend.git  
+```
+```bash
+Backend  clone in Chat-App
+  git clone https://github.com/Arpa646/chatApp-frontend.git  
 ```
 
-Go to the project directory
+Go to the project in front end
 
 ```bash
-  cd mern-chat-app
+  cd ChatApp-frontend
 ```
 
-Install dependencies
+Install dependencies client
 
 ```bash
   npm install
-```
-
-```bash
-  cd frontend/
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
 ```
 Start the Client
 
@@ -53,6 +50,27 @@ Start the Client
   cd frontend
   npm start
 ```
+
+
+
+Go to the project in Back end
+```bash
+  cd ChatApp-Backend
+```
+
+Install dependencies
+```bash
+
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
 
   
 # Features
